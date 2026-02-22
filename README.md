@@ -38,5 +38,5 @@ For example, the Policy Engine verifies the user's authenticated identity, check
 Project: Lab 6 - Zero Trust Policy  
 Filename: ZT-Policy-Profile.md  
 Commit Message: Initial commit of Zero Trust Policy Profile for HR PII database  
-GitHub URL: [ZT-Policy-Profile Repository]([https://github.com/N-alaiban/ZT-Policy-Profile](https://github.com/N-alaiban/ZT-Policy-Profile.md.git))
+GitHub URL: [ZT-Policy-Profile Repository](https://github.com/N-alaiban/ZT-Policy-Profile](https://github.com/N-alaiban/ZT-Policy-Profile.md.git)
 Due Date: March 2, 2026
